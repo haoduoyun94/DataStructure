@@ -1,6 +1,6 @@
 package com.lwl.Array.BasicArray;
 
-//获取数组下标元素。
+//获取数组下标元素
 public class Test1Array {
 	public static void main(String[] args) {
 		// 创建一个数组
