@@ -1,5 +1,6 @@
 package com.lwl.Array.Queue;
 
+//队列
 public class Test1Queue {
 	// 构造方法
 	int[] elements;
