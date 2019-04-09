@@ -39,4 +39,9 @@ public class Node {
 		return this.nextNode;
 	}
 	
+	//获取节点数据
+	public int getNode() {
+		return this.data; 
+	}
+	
 }

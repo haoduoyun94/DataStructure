@@ -19,5 +19,4 @@ public class Test1QueueTest {
 		test1Queue.add(8);
 		System.out.println(test1Queue.isEmpty());
 	}
-
 }

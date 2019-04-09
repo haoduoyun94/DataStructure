@@ -13,7 +13,7 @@ public class Test2StackStart {
 		// 取出栈顶元素
 		System.out.println(test1Stack.pop());
 		test1Stack.pop();
-		System.err.println(test1Stack.peek());
+		System.out.println(test1Stack.peek());
 		test1Stack.isEmpty();
 	}
 }
